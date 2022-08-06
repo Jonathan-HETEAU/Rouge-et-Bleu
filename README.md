@@ -45,7 +45,7 @@ le but est simple, 2 yeux ( Jouables ) bloqués chacun dans leur monde ( Niveau 
 - Les blocs : Ce sont des obstacles inamovibles et infranchissables.
 
 
-## Les personnages :
+## Les personnages :
 
 J'ai choisi les yeux comme personnages pour plusieurs raisons.. :
 

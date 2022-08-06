@@ -1,7 +1,7 @@
 ![Baniére](public/1.png)
 # Eyes Eyes Crazy  
 
-Eyes Eyes Crazy a été créé lors d'une Game Jam qui avait pour thème la Nintendo NES. Nous devions réaliser un jeu respectant les contraintes techniques de la console : couleurs, résolution, sprites ects…
+Eyes Eyes Crazy a été créé en 2014 lors d'une Game Jam qui avait pour thème la Nintendo NES. Nous devions réaliser un jeu respectant les contraintes techniques de la console : couleurs, résolution, sprites ects…
 
 
 
